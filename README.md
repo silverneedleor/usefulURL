@@ -9,4 +9,4 @@ Here are some of the best answers I've come across when solving problems. If the
 
 [窗口移动到屏幕外边问题](https://blog.csdn.net/qq_45467083/article/details/121560938)
 
-[POM文件内属性]((http://www.manongjc.com/detail/29-etukibtsbwxttjp.html)http://www.manongjc.com/detail/29-etukibtsbwxttjp.html)
+[POM文件内属性](http://www.manongjc.com/detail/29-etukibtsbwxttjp.html)
